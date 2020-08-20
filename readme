@@ -1,1 +1,5 @@
-Grid searches for the privacy risk prediction.
+Repository of the code developed for "Predicting and Explaining Privacy Risk Exposure in Mobility Data".
+1. Factual and conterfacutal rules extracted using LORE.
+2. Grid searches for the privacy risk prediction.
+3. Code employed for the experiments. To use the code, the input data has to be a sequence of integers.  
+
